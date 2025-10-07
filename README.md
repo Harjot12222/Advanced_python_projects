@@ -55,25 +55,15 @@ Skills Demonstrated: Dictionaries, nested structures, functions, error handling,
 
 5. Expense Tracker
 
-Description: Predefined expenses are categorized and summed by type, with a simple bar chart representation.
+Description: Predefined expenses are categorized and summed by type, with a simple bar chart representation.Also computes mean, median, mode, variance, and standard deviation for a user-provided numeric list.
 
-Skills Demonstrated: Loops, dictionaries, aggregation, console-based visualization.
-
-
-
----
-
-6. Statistics Calculator
-
-Description: Computes mean, median, mode, variance, and standard deviation for a user-provided numeric list.
-
-Skills Demonstrated: Lists, loops, numpy for variance/standard deviation, Counter for mode.
+Skills Demonstrated: Loops, dictionaries, aggregation, console-based visualization,lists,numpy for variance/standard deviation, Counter for mode.
 
 
 
 ---
 
-7. Number Guess Game
+6. Number Guess Game
 
 Description: User guesses a randomly generated number. Supports difficulty levels (Easy, Medium, Hard) with different attempt limits.
 
@@ -83,7 +73,7 @@ Skills Demonstrated: Loops, conditionals, random numbers, input validation.
 
 ---
 
-8. Tic Tac Toe
+7. Tic Tac Toe
 
 Description: Two-player console-based Tic Tac Toe with input validation and win/draw detection.
 
@@ -93,7 +83,7 @@ Skills Demonstrated: Lists, loops, nested loops, win condition checking, input h
 
 ---
 
-9. Dice Roller
+8. Dice Roller
 
 Description: Simulates rolling a six-sided dice and maintains a history of rolls.
 
@@ -103,7 +93,7 @@ Skills Demonstrated: Random numbers, lists, loops.
 
 ---
 
-10. Quiz Game
+9. Quiz Game
 
 Description: A multiple-choice quiz with randomized questions. Tracks score and allows the user to continue or exit.
 
@@ -113,7 +103,7 @@ Skills Demonstrated: Dictionaries, lists, loops, user input handling, score trac
 
 ---
 
-11. Password Generator
+10. Password Generator
 
 Description: Generates random passwords based on length input using letters, digits, and symbols.
 
@@ -123,7 +113,7 @@ Skills Demonstrated: Strings, random module, loops, string concatenation.
 
 ---
 
-12. Bank Account System
+11. Bank Account System
 
 Description: Console-based banking application to create accounts, view balance, deposit, and withdraw money with PIN authentication.
 
@@ -133,7 +123,7 @@ Skills Demonstrated: Dictionaries, error handling, functions, conditionals, loop
 
 ---
 
-13. Time amenities 
+12. Time amenities 
 
 Description: Time utility suite offering Clock, Timer, and Stopwatch functionalities in the console.
 
